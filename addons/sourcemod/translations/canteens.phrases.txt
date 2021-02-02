@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"Unknown_Powerup_Type"
+	{
+		"#format"	"{1:d}"
+		"en"		"Unknown powerup type {1}"
+	}
+	
+	"No_PowerupBottle_Equipped"
+	{
+		"en"		"You have no Power Up Canteen equipped."
+	}
+	
+	"SetPowerupBottleCharges_Usage"
+	{
+		"en"		"Usage: sm_canteen <type> <charges>"
+	}
+}
